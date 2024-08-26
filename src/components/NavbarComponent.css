@@ -1,0 +1,17 @@
+.navbar {
+    margin-bottom: 20px;
+    font-size: large;
+    box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .navbar a:hover {
+    color: #f1356d;
+  }
+  
+  #brand {
+    color: #f1356d !important;
+    font-family: "fantasy";
+    font-size: 2.9rem;
+    font-style: oblique;
+  }
+  
